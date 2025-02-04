@@ -162,9 +162,11 @@ All UI components are built using Material-UI with custom styling and animations
 - Implement error boundary
 - Add more authentication providers
 
-## 📝 License
+## Screenshots
 
-MIT License
+![Screenshot ](./images/one.png)
+![Screenshot ](./images/two.png)
+![Screenshot ](./images/dash.png)
 
 ---
 
